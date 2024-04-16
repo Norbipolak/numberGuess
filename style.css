@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 800px;
+    margin: 15px auto;
+    padding: 15px;
+    text-align: center;
+}
+
+.input-form {
+    background-color: #a5f5b9;
+    border: 1px solid #8ccb9c;
+    margin: auto;
+    padding: 15px;
+    max-width: 500px;
+    margin-bottom: 15px;
+}
+
+button, input {
+    padding: 8px;
+    display: block;
+    margin: 10px auto;
+}
+
+.display-none {
+    display: none;
+}
